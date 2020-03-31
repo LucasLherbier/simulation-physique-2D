@@ -1,6 +1,6 @@
 # Simulation Physique en 2D
 
-Ce projet a été réalisé dans le cadre du cours électif *Introduction à C/C++* de deuxième année à l'[Ecole des Mines de Nancy](https://mines-nancy.univ-lorraine.fr/formation/ingenieur-civil-mines-icm/).  
+Ce projet a été réalisé dans le cadre du cours électif [*Introduction à C/C++*](https://www.depinfonancy.net/cours-électifs/ces7aj) de deuxième année de l'[Ecole des Mines de Nancy](https://mines-nancy.univ-lorraine.fr/formation/ingenieur-civil-mines-icm/).  
 GPA obtenu: 3.7/4.0
 
 ## Présentation du projet
