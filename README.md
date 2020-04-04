@@ -13,8 +13,9 @@ Le projet a été réalisé en **C++** avec l’interface graphique de **[Qt](ht
 
 ## Description du dépôt
 
-Le dossier `projet` contient l'ensemble des scripts. 
-Prochainement, un fichier PDF présentera le système physique simulé ici ainsi que les hypothèses physiques réalisées.
+Le dossier `projet` contient l'ensemble des scripts. Lors de l'exécution du projet, une fenêtre graphique va s'afficher. Il est possible de faire apparaitre de nouvelles particules en double-cliquant sur la fenêtre. 
+
+Le fichier `rapport` présente le système physique simulé ici ainsi que des hypothèses physiques réalisées.
 
 
 
